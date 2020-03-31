@@ -1,2 +1,2 @@
 # Hello-World
-Learning Git in android Studio
+Learning Git local repository via git bash and also in android Studio
